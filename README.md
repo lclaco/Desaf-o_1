@@ -1,2 +1,14 @@
-# Desaf-o_1
- Punto de Venta
+# Desafio 1
+### Punto de Venta
+- 23 Marzo
+
+El modesto almacén|kiosko|tienda XXXXXX dedicado a la venta de XXXXXX (a su preferencia) necesita desarrollar un software para poder registrar los productos que se comercializan y las ventas realizadas. Debido a los pocos recursos con que se cuentan, se evalúa utilizar un computador antiguo en modalidad de consola. Adicionalmente el cliente necesita que se genere un reporte en formato CSV con las ventas del día.
+
+#### Se solicita utilizar:
+
+- Clase java.util.Scanner
+- Manejar excepciones
+- Github: README.md, .gitignore, commits constantes, opcionalmente tags y branches
+- ArrayList o arrays normales
+- Generar casos de prueba (cobertura sobre 90%)
+- Generar modelo UML de clases
